@@ -19,11 +19,11 @@ function App() {
           <div class="container">
             <div className="login-box">
               <div className="login-left">
-                <img className="img-fluid" src={'https://preschool.dreamstechnologies.com/template/assets/img/login.png'} alt="Logo" />
+                <img className="img-fluid" src={'c'} alt="Logo" />
               </div>
               <div className="login-right">
                 <div className="login-right-wrap">
-                  <h1>Welcome to Preskool</h1>
+                  <h1>Welcome to Dev Center</h1>
                   <p className="account-subtitle">Need an account? <a href="/">Sign Up</a></p>
                   <h2>Sign in</h2>
                   <form action="">
